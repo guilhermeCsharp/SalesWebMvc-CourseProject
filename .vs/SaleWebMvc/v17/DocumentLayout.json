@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Projetos\\SaleWebMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9B089F-D989-4E06-9227-BEB3DE9EAB6D}|SaleWebMvc\\SaleWebMvc.csproj|c:\\users\\user\\desktop\\projetos\\salewebmvc\\salewebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9B089F-D989-4E06-9227-BEB3DE9EAB6D}|SaleWebMvc\\SaleWebMvc.csproj|solutionrelative:salewebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9B089F-D989-4E06-9227-BEB3DE9EAB6D}|SaleWebMvc\\SaleWebMvc.csproj|c:\\users\\user\\desktop\\projetos\\salewebmvc\\salewebmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E9B089F-D989-4E06-9227-BEB3DE9EAB6D}|SaleWebMvc\\SaleWebMvc.csproj|solutionrelative:salewebmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9B089F-D989-4E06-9227-BEB3DE9EAB6D}|SaleWebMvc\\SaleWebMvc.csproj|c:\\users\\user\\desktop\\projetos\\salewebmvc\\salewebmvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E9B089F-D989-4E06-9227-BEB3DE9EAB6D}|SaleWebMvc\\SaleWebMvc.csproj|solutionrelative:salewebmvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9B089F-D989-4E06-9227-BEB3DE9EAB6D}|SaleWebMvc\\SaleWebMvc.csproj|c:\\users\\user\\desktop\\projetos\\salewebmvc\\salewebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9B089F-D989-4E06-9227-BEB3DE9EAB6D}|SaleWebMvc\\SaleWebMvc.csproj|solutionrelative:salewebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Projetos\\SaleWebMvc\\SaleWebMvc\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "SaleWebMvc\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Projetos\\SaleWebMvc\\SaleWebMvc\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "SaleWebMvc\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T19:53:47.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Projetos\\SaleWebMvc\\SaleWebMvc\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "SaleWebMvc\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Projetos\\SaleWebMvc\\SaleWebMvc\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "SaleWebMvc\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T19:49:53.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Projetos\\SaleWebMvc\\SaleWebMvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SaleWebMvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Projetos\\SaleWebMvc\\SaleWebMvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SaleWebMvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T19:14:59.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Projetos\\SaleWebMvc\\SaleWebMvc\\Program.cs",
+              "RelativeDocumentMoniker": "SaleWebMvc\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Projetos\\SaleWebMvc\\SaleWebMvc\\Program.cs",
+              "RelativeToolTip": "SaleWebMvc\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:25:58.23Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
