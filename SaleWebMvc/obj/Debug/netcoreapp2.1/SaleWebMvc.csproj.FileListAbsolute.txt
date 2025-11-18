@@ -34,3 +34,5 @@ C:\Users\User\Desktop\Projetos\SaleWebMvc\SaleWebMvc\obj\Debug\netcoreapp2.1\Sal
 C:\Users\User\Desktop\Projetos\SaleWebMvc\SaleWebMvc\obj\Debug\netcoreapp2.1\SaleWebMvc.pdb
 C:\Users\User\Desktop\Projetos\SaleWebMvc\SaleWebMvc\obj\Debug\netcoreapp2.1\SaleWebMvc.genruntimeconfig.cache
 C:\Users\User\Desktop\Projetos\SaleWebMvc\SaleWebMvc\obj\Debug\netcoreapp2.1\SaleWebMvc.csproj.Up2Date
+C:\Users\User\Desktop\Projetos\SaleWebMvc\SaleWebMvc\obj\Debug\netcoreapp2.1\SaleWebMvc.sourcelink.json
+C:\Users\User\Desktop\Projetos\SaleWebMvc\SaleWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
